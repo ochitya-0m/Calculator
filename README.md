@@ -1,0 +1,1 @@
+A basic calculator user interface built using HTML and CSS. This project focuses on creating the visual layout of a calculator, including buttons, display screen, and overall styling — ideal for practicing front-end design skills.
